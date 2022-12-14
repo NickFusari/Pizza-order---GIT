@@ -18,5 +18,15 @@ body{
 
 .order{
 
-    height: 20px;
+    height: 350px;
+    margin: 30px 0;
+    padding: 20px;
+    background: rgb(255, 254, 254);
+    border-radius: 30px;
+}
+
+.imageCon{
+
+    width: 200px;
+    margin-bottom: 15px;
 }

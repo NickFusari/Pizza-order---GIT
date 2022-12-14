@@ -9,7 +9,7 @@ const orders = [
         extra: "Kukrica",
         ital: "Pepsi zero",
         ar: 1500,
-        kep: "https://images.pexels.com/photos/6937416/pexels-photo-6937416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        kep: "https://images.pexels.com/photos/1878346/pexels-photo-1878346.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         id: 2,
